@@ -6,6 +6,7 @@
 - Ajibola Khaleel
 - Micah Kibet 
 - Long Deng
+- Daniel Burongu
 
 # Challenge Pair One
 ### TECHNICAL:
