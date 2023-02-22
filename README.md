@@ -1,4 +1,4 @@
-# Goup 6 Repo
+# Group 6 Repo
 
 ## Group members
 - Bevil Mulor
